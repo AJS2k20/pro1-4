@@ -41,7 +41,7 @@ nav ul li:hover {
 }
 
 .content {
-  background-image: url('music.jpg');
+  background-image: url('background.jpg');
   /* background-size: 100%; */
   height: 100vh;
   background-position: 100%;
